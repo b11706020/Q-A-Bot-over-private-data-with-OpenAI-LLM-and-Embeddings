@@ -1,5 +1,5 @@
 # Q-A-Bot-over-private-data-with-OpenAI-LLM-and-Embeddings
-Python-based Q&amp;A bot using OpenAI's LLM and LangChain's Vector Index Database for text extraction and processing. Features include PDF data extraction, tokenization, efficient data management, OpenAI embeddings for context analysis, and customizable query handling for diverse informational needs.
+Python-based Q&amp;A bot using OpenAI's LLM and Embeddings for text extraction and processing. Features include PDF data extraction, tokenization, efficient data management, OpenAI embeddings for context analysis, and customizable query handling for diverse informational needs.
 # Features
 PDF Text Extraction: Extracts text from PDF files using PyMuPDF.
 Data Cleaning: Implements text manipulation for data normalization.
